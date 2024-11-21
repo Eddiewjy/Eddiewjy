@@ -25,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddiewjy&layout=compact&theme=radical" height="150" />
 </div>
 
----
-
-## 🚀 Recent Activity
-[![Eddie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eddiewjy&theme=github)](https://github.com/Eddiewjy)
 
 ---
 
