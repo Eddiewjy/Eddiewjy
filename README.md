@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=YouFindMe!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%27m%20Eddie%2C%20a%20normal%20programmer&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi,There!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%27m%20Eddie%2C%20a%20normal%20programmer&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 ## 👋 About Me
@@ -13,9 +13,12 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,pytorch,anaconda,git,github,linux,vscode,windows,latex&theme=dark" />
-</div>
+Languages & Frameworks
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,pytorch&theme=dark" /> </div>
+Tools & Platforms
+<div align="center"> <img src="https://skillicons.dev/icons?i=bash,anaconda,git,github,obsidian,vim,vscode,latex&theme=dark" /> </div>
+Operating Systems
+<div align="center"> <img src="https://skillicons.dev/icons?i=ubuntu,linux,windows&theme=dark" /> </div>
 
 ---
 
