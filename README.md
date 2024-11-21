@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 - 🎓 **Name**: Eddie (@Eddiewjy)  
-- 🌱 **Learning**: Python, Git, Deep Learning (DL), and Machine Learning (ML)  
+- 🌱 **Learning**: Python, CV, Deep Learning (DL), and Machine Learning (ML)  
 - 🎯 **Interests**:  
   - 🚀 Exploring high-quality courses and useful tools  
   - 🏀 Basketball lover  
