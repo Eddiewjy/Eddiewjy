@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack
 
 Languages & Frameworks
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,pytorch,opencv,js,html,css,nodejs,go,react,vue,ts&theme=dark" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,pytorch,opencv,js,html,css,nodejs,go,react,ts&theme=dark" /> </div>
 Tools & Platforms
 <div align="center"> <img src="https://skillicons.dev/icons?i=bash,anaconda,git,github,obsidian,vim,vscode,latex,gcp,md&theme=dark" /> </div>
 Operating Systems
