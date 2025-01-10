@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 - 🎓 **Name**: Eddie (@Eddiewjy)  
-- 🌱 **Learning**: Python, CV, Deep Learning (DL), and Machine Learning (ML)  
+- 🌱 **Learning**: React, Vue, Vitepress,Deep Learning   
 - 🎯 **Interests**:  
   - 🚀 Exploring high-quality courses and useful tools  
   - 🏀 Basketball lover  
