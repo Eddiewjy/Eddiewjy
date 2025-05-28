@@ -35,7 +35,7 @@
 <summary>Backend & ML</summary>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,tensorflow,pytorch,fastapi,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,pytorch,fastapi,docker&theme=dark" />
 </div>
 </details>
 
